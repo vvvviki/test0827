@@ -6,7 +6,7 @@ import sys,datetime,smtplib
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-print "123456"
+print "123456la"
 
 now = datetime.datetime.now() #获取当前时间
 
